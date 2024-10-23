@@ -15,8 +15,11 @@ El proyecto del calculador sirve  para analizar inversiones y generar reportes f
 <p>Los Tipos De Datos que utilizamos En El Proyecto .</p>
 
 **Datos Numeriocos o Enteros**: Los Datos numericos se utilizan en el calculador al ingresar el valor de la inversion 
+
 **Datos De Tipo Cadena**: Los datos de tipo cadena nos da la funcion y se utiliza para formatear el reporte y hacerlo más legible.
+
 **Datos  De Tipo Flotante**:  Se utiliza para formatear el reporte y hacerlo más legible.
+
 **Datos Voluntarios**: Este tipo de dato es el que el cliente nos proporciona al darnos su inversion
 ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffacturama.mx%2Fblog%2Fcapital-financiero%2F&psig=AOvVaw0Jf20DuaxQ8eISzk9JdOaM&ust=1729745809378000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICis7rbo4kDFQAAAAAdAAAAABAE)
 
