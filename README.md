@@ -1,7 +1,7 @@
 <h1> Calcular Capital De Una Empresa</h1>
 
 <h5>Enlace Demostrativo :</h5>
-En Este enlace daremos una visualizacion de lo que es el proyecto en accion : https://www.instagram.com/reel/DBdA8xcAvNBw79UGxoyPwgThv09bOJRyOLFtCc0/?igsh=MWlxMGs3amJtbGpnNg==
+En Este enlace daremos una visualizacion de lo que es el proyecto en accion : https://www.instagram.com/cristian_rodriguez3463/profilecard/?igsh=ZWRrOTM0cTdxNmQ=
 
 <h5>Descripcion :</h5>
 Este código es un programa para analizar inversiones y generar reportes financieros. Utiliza funciones para calcular préstamos bancarios, calcular el capital restante después de inversiones en equipo de cómputo y mobiliario, y dividir el capital restante en insumos e incentivos. Los datos se almacenan en listas y se imprimen en un reporte.
